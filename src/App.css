@@ -531,3 +531,19 @@ html,
 .selector-ciudad-extra select {
   width: 100%;
 }
+
+/* Mejorar la visibilidad del selector de provincia */
+.selector-ciudad h2 {
+  color: #263b2b;
+  font-weight: 600;
+}
+
+.selector-ciudad .etiqueta {
+  color: #344b38;
+  font-weight: 700;
+}
+
+.selector-ciudad select {
+  color: #263b2b;
+  font-weight: 600;
+}
