@@ -574,3 +574,12 @@ html,
     font-weight: 700 !important;
   }
 }
+
+/* Mejorar la visibilidad del nombre de provincia o ciudad en móvil */
+@media (max-width: 768px) {
+  .titulo-resultados h2 {
+    color: #263b2b !important;
+    opacity: 1 !important;
+    font-weight: 700 !important;
+  }
+}
