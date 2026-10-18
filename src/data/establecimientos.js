@@ -14,7 +14,7 @@ const establecimientos = [
   { id: 12, nombre: "PiLight", ciudad: "Barcelona", provincia: "Barcelona", direccion: "Carrer de Londres, 27, 08029 Barcelona", web: "https://www.pilight.es/shop/" },
   { id: 13, nombre: "Viva Llum", ciudad: "Barcelona", provincia: "Barcelona", direccion: "Carrer d'Arizala, 75, 08028 Barcelona", web: "" },
   { id: 14, nombre: "Minim", ciudad: "Barcelona", provincia: "Barcelona", direccion: "Via Augusta, 185, 08021 Barcelona", web: "https://www.minim.es/es/minim-barcelona" },
-  { id: 15, nombre: "CAZL", ciudad: "Barcelona", provincia: "Barcelona", direccion: "", web: "" },
+  { id: 15, nombre: "CA2L", ciudad: "Barcelona", provincia: "Barcelona", direccion: "Carrer d'Alí Bei, 57, Eixample, 08013 Barcelona", web: "http://www.ca2l.com/" },
   { id: 16, nombre: "Atic Barcelona", ciudad: "Barcelona", provincia: "Barcelona", direccion: "", web: "" },
   { id: 17, nombre: "PKM", ciudad: "Barcelona", provincia: "Barcelona", direccion: "Carrer de Verdi, 274, local 1, 08024 Barcelona", web: "https://www.pkmiluminacion.com/" },
   { id: 18, nombre: "Novelec Meridiana", ciudad: "Barcelona", provincia: "Barcelona", direccion: "Carrer del Cardenal Tedeschini, 14, 08027 Barcelona", web: "https://www.gruponovelec.com/?utm_source=directorios&utm_medium=organic&utm_campaign=gmb" },
