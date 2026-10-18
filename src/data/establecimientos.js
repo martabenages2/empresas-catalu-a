@@ -12,7 +12,7 @@ const establecimientos = [
   { id: 10, nombre: "Cado", ciudad: "Barcelona", provincia: "Barcelona", direccion: "Carrer de Francesc Pérez Cabrero, 7, 08021 Barcelona", web: "https://www.cadointeriors.es/" },
   { id: 11, nombre: "Maria Odena", ciudad: "Barcelona", provincia: "Barcelona", direccion: "Carrer d'Alfons XII, 32, local 3, 08006 Barcelona", web: "https://www.mariaodena.com/" },
   { id: 12, nombre: "PiLight", ciudad: "Barcelona", provincia: "Barcelona", direccion: "Carrer de Londres, 27, 08029 Barcelona", web: "https://www.pilight.es/shop/" },
-  { id: 13, nombre: "Viva Llum", ciudad: "Barcelona", provincia: "Barcelona", direccion: "Carrer d'Arizala, 75, 08028 Barcelona", web: "" },
+  { id: 13, nombre: "Viva Llum", ciudad: "Barcelona", provincia: "Barcelona", direccion: "Carrer d'Arizala, 75, 08028 Barcelona", web: "http://www.vivallum.com/" },
   { id: 14, nombre: "Minim", ciudad: "Barcelona", provincia: "Barcelona", direccion: "Via Augusta, 185, 08021 Barcelona", web: "https://www.minim.es/es/minim-barcelona" },
   { id: 15, nombre: "CA2L", ciudad: "Barcelona", provincia: "Barcelona", direccion: "Carrer d'Alí Bei, 57, Eixample, 08013 Barcelona", web: "http://www.ca2l.com/" },
   { id: 16, nombre: "Atic Barcelona", ciudad: "Barcelona", provincia: "Barcelona", direccion: "", web: "" },
