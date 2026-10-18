@@ -547,3 +547,11 @@ html,
   color: #263b2b;
   font-weight: 600;
 }
+
+/* Mejorar el contraste del nombre de la provincia */
+.grupo-provincia h2,
+.grupo-provincia h3,
+.grupo-provincia p {
+  color: #263b2b;
+  font-weight: 600;
+}
