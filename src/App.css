@@ -555,3 +555,22 @@ html,
   color: #263b2b;
   font-weight: 600;
 }
+
+.grupo-provincia h2,
+.grupo-provincia h3,
+.grupo-ciudad h2,
+.grupo-ciudad h3 {
+  color: #263b2b !important;
+  font-weight: 700;
+}
+
+@media (max-width: 768px) {
+  .grupo-provincia h2,
+  .grupo-provincia h3,
+  .grupo-ciudad h2,
+  .grupo-ciudad h3 {
+    color: #263b2b !important;
+    opacity: 1 !important;
+    font-weight: 700 !important;
+  }
+}
